@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Workspace\contract_sp\deploy01\core-contracts\staking-pool\target\wasm32-unknown-unknown\release\build\typenum-8905915b97cc72f4\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Workspace\contract_sp\deploy01\core-contracts\staking-pool\target\wasm32-unknown-unknown\release\build\typenum-8905915b97cc72f4\out\op.rs

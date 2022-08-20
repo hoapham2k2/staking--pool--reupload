@@ -1,0 +1,12 @@
+d:\workspace\contract_sp\deploy01\core-contracts\staking-pool\target\debug\deps\cc-1f2c7e0e56320526.rmeta: C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\lib.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\registry.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\winapi.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\com.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\setup_config.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\windows_registry.rs
+
+d:\workspace\contract_sp\deploy01\core-contracts\staking-pool\target\debug\deps\libcc-1f2c7e0e56320526.rlib: C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\lib.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\registry.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\winapi.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\com.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\setup_config.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\windows_registry.rs
+
+d:\workspace\contract_sp\deploy01\core-contracts\staking-pool\target\debug\deps\cc-1f2c7e0e56320526.d: C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\lib.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\registry.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\winapi.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\com.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\setup_config.rs C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\windows_registry.rs
+
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\lib.rs:
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\registry.rs:
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\winapi.rs:
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\com.rs:
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\setup_config.rs:
+C:\Users\phamq\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.59\src\windows_registry.rs:
